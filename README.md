@@ -8,15 +8,6 @@ Dosímetro básico y práctico, desarrollado con fines educativos, que mide el n
 
 ---
 
-## 📱 Capturas
-
-<!-- Reemplaza estas rutas por tus capturas reales (por ejemplo, en una carpeta /docs) -->
-| Medición en curso | Nueva medición | Confirmar detención |
-|:---:|:---:|:---:|
-| ![Pantalla principal](docs/principal.png) | ![Diálogo nueva medición](docs/nueva_medicion.png) | ![Diálogo detener](docs/detener.png) |
-
----
-
 ## 🚀 Características
 
 ### Medición
